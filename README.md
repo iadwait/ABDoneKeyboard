@@ -22,7 +22,7 @@ pod 'ABDoneKeyboard'
 
 ## Author
 
-adwaitbarkale@gmail.com, adwaitb@winjit.com
+adwaitbarkale@gmail.com
 
 ## License
 

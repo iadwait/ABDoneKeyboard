@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ABDoneKeyboard'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'This Project will add Done button at top of Keyboard.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/iadwait/ABDoneKeyboard'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'adwaitbarkale@gmail.com' => 'adwaitb@winjit.com' }
+  s.author           = { 'iadwait' => 'adwaitbarkale@gmail.com' }
   s.source           = { :git => 'https://github.com/iadwait/ABDoneKeyboard.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
