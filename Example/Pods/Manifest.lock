@@ -1,0 +1,16 @@
+PODS:
+  - ABDoneKeyboard (0.1.0)
+
+DEPENDENCIES:
+  - ABDoneKeyboard (from `../`)
+
+EXTERNAL SOURCES:
+  ABDoneKeyboard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ABDoneKeyboard: 33de475b0f8a95c4e006780a3099bf008c718325
+
+PODFILE CHECKSUM: 8ae591b0a9adcc4fe6cee2167ebbe0016dc21b7d
+
+COCOAPODS: 1.8.4

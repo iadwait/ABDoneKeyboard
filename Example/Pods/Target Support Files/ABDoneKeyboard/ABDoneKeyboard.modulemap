@@ -1,0 +1,6 @@
+framework module ABDoneKeyboard {
+  umbrella header "ABDoneKeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
