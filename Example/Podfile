@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ABDoneKeyboard_Example' do
+  pod 'ABDoneKeyboard', :path => '../'
+
+  target 'ABDoneKeyboard_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
