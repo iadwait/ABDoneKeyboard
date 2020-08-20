@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 'This Project will add Done button at top of Keyboard.Just Import and make the accessory on from storyboard.'
                        DESC
 
-  s.homepage         = 'https://github.com/adwaitbarkale@gmail.com/ABDoneKeyboard'
+  s.homepage         = 'https://github.com/iadwait/ABDoneKeyboard'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'adwaitbarkale@gmail.com' => 'adwaitb@winjit.com' }
